@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Random image gallery with fancy zoom\n"
+"POT-Creation-Date: 2019-08-12 00:43+0800\n"
+"PO-Revision-Date: 2019-08-12 00:43+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../random-image-gallery-with-fancy-zoom.php:64
+#: ../select-random-image.php:36
+msgid "Image folder does not exists"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:119
+#: ../select-random-image.php:79
+msgid "No image found in the folder"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:146
+msgid "Random image gallery with fancy zoom"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:147
+msgid "Settings"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:170
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:177
+msgid "Enter widget title"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:179
+msgid "Please enter your widget title."
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:181
+msgid "Width"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:183
+msgid "Please enter your image width."
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:185
+msgid "Sidebar title display"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:190
+msgid ""
+"Do you want to show title on your sidebar? This option is only for widget."
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:192
+msgid "Image directory"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:194
+msgid ""
+"Please enter your image directory. In which directory you have all your "
+"images?"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:200
+msgid "Submit"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:206
+msgid "Plugin configuration option"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:208
+msgid "Add directly in to the theme using PHP code."
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:209
+msgid "Drag and drop the widget to your sidebar."
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:210
+msgid "Add the images in the posts or pages using short code."
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:212
+#: ../random-image-gallery-with-fancy-zoom.php:223
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:213
+#: ../random-image-gallery-with-fancy-zoom.php:224
+msgid "click here"
+msgstr ""
+
+#: ../random-image-gallery-with-fancy-zoom.php:221
+#: ../random-image-gallery-with-fancy-zoom.php:231
+#: ../random-image-gallery-with-fancy-zoom.php:236
+#: ../random-image-gallery-with-fancy-zoom.php:252
+#: ../random-image-gallery-with-fancy-zoom.php:253
+msgid "FancyZoom images"
+msgstr ""
